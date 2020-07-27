@@ -16,5 +16,5 @@
 [![image](https://miro.medium.com/max/367/1*TOGh3CqAER66VJcVEIBckA.gif "image")](https://miro.medium.com/max/367/1*TOGh3CqAER66VJcVEIBckA.gif "image")
 
 #Créditos
-O projeto foi desenvolvido seguindo o tutorial da Nina Diana ([tutorial](https://morioh.com/p/065577fc11ef "tutorial")).
 
+O projeto foi desenvolvido seguindo o tutorial da Nina Diana ([tutorial](https://morioh.com/p/065577fc11ef "tutorial")).
