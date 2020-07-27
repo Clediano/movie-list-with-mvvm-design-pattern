@@ -1,16 +1,20 @@
-# mvvm_design_pattern
+### Funcionalidades/objetivos
 
-A new Flutter project.
+- Buscar filmes baseados em uma palavra chave usando a OMDb API ([omdbapi](http://www.omdbapi.com/ "omdbapi"));
+- Explorar o uso do Design Pattern MVVM (Model-View-ViewModel);
+- Usar a funcionalidade de Notifier e Provider, para notificar a camada View sempre que houver uma atualização na lista de filmes.
 
-## Getting Started
+### Objetivos futuros
+- Trabalhar para melhorar a UI/UX do projeto, explorando recursos avançados de animations do flutter.
 
-This project is a starting point for a Flutter application.
+### Dependências utilizadas
 
-A few resources to get you started if this is your first Flutter project:
+[provider](https://pub.dev/packages/provider)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Imagem do projeto
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![image](https://miro.medium.com/max/367/1*TOGh3CqAER66VJcVEIBckA.gif "image")](https://miro.medium.com/max/367/1*TOGh3CqAER66VJcVEIBckA.gif "image")
+
+#Créditos
+O projeto foi desenvolvido seguindo o tutorial da Nina Diana ([tutorial](https://morioh.com/p/065577fc11ef "tutorial")).
+
